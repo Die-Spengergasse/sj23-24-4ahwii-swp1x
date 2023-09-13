@@ -6,11 +6,7 @@ siehe Datei "Stoff.md"
 
 ## Upcoming
 
--   Kontrolle Hüs (massimo css, math. gradient, chasim!, ben: irrsinn, jakob:
-    subdir)
-
--   Wiederholung Javascript
--   15 Mistakes https://youtu.be/pWnJY_Wkde4
+-   15 Mistakes https://youtu.be/pWnJY_Wkde4 ab der Mitte
 
 # Hausübungen (rev. Chrono)
 

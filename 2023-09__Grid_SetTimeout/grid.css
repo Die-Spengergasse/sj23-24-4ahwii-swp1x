@@ -1,0 +1,8 @@
+#root {
+    display: grid;
+    grid-template: repeat(7, 7em) / repeat(7, 7em);
+}
+#bunny {
+    grid-row: 3 / 3;
+    grid-column: 4 / 1;
+}

@@ -6,9 +6,16 @@ siehe Datei "Stoff.md"
 
 ## Upcoming
 
--   15 Mistakes https://youtu.be/pWnJY_Wkde4 ab der Mitte
+-   Übung mit grid (Häschen herumhoppeln lassen mit setTimeout, siehe
+    Vorbereitetes Zeugs)
+-   Promises in-depth (akshay chani)
 
 # Hausübungen (rev. Chrono)
+
+## HÜ 2023-09-20
+
+-   flexboxfroggy
+-   css grid garden
 
 ## HÜ 2023-09-06
 

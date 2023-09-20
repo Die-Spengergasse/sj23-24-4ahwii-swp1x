@@ -1,5 +1,11 @@
 # Unterrichtete Themen 4AHWII SWPx
 
+## Woche 38
+
+-   scrimba
+-   mdn - developer.mozilla.org
+-   15 Mistakes https://youtu.be/pWnJY_Wkde4 ab der Mitte
+
 ## Woche 36
 
 -   Markdown https://www.markdownguide.org/cheat-sheet

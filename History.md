@@ -17,3 +17,7 @@
     -   Typ
     -   Zugehörig zu Klasse
     -   Einzeln per ID
+
+## HÜ 2023-09-06
+
+-   upload der SÜ und Bekanntgabe der URL

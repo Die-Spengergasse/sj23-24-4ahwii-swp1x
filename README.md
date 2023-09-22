@@ -1,13 +1,10 @@
 # sj23-24-4ahwii-swpx
 
-## Bereits durchgenommen
-
-siehe Datei "Stoff.md"
-
 ## Upcoming
 
 -   Übung mit grid (Häschen herumhoppeln lassen mit setTimeout, siehe
     Vorbereitetes Zeugs)
+-   style stripping
 -   Promises in-depth (akshay chani)
 
 # Hausübungen (rev. Chrono)
@@ -17,6 +14,6 @@ siehe Datei "Stoff.md"
 -   flexboxfroggy
 -   css grid garden
 
-## HÜ 2023-09-06
+## Bereits durchgenommen
 
--   upload der SÜ und Bekanntgabe der URL
+siehe Datei "History.md"

@@ -1,5 +1,15 @@
 # sj23-24-4ahwii-swpx
 
+## Tests:
+
+-   18.10
+-   20.12.
+-   24.1.
+
+## HÜ com 27.9.
+
+-   bunnyjump komplettieren
+
 ## Upcoming
 
 -   Übung mit grid (Häschen herumhoppeln lassen mit setTimeout, siehe

@@ -6,11 +6,42 @@
         <title>Rabbit Hole</title>
         <link rel="stylesheet" href="../css/solarized.css" />
         <link rel="stylesheet" href="grid.css" />
-        <script src="grid.js" defer></script>
+        <script src="grid.js" type="module" defer></script>
     </head>
     <body>
-        <div id="getgoin"><button type="submit">Get Going!</button></div>
-        <div id="root">
+        <label for="select">Action:</label>
+        <select id="select"></select>
+        <label for="posX">zu Spalte (1-7)</label>
+        <input
+            type="number"
+            name="posX"
+            id="posX"
+            min="1"
+            max="7"
+            value="2"
+            width="2rem"
+        />
+        <label for="posY">zu Zeile (1-7)</label>
+        <input
+            type="number"
+            name="posY"
+            id="posY"
+            min="1"
+            max="7"
+            value="1"
+            width="2rem"
+        />
+        <label for="mS">Millisekunden</label>
+        <input
+            type="number"
+            name="mS"
+            id="mS"
+            min="20"
+            max="3000"
+            value="350"
+            width="5rem"
+        />
+        <div id="grid">
             <img src="rabbit.png" id="bunny" />
         </div>
     </body>

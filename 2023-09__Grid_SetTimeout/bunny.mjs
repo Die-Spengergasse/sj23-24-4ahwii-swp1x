@@ -13,12 +13,12 @@ class Bunny extends Component {
         this.actions.add("start");
         this.actions.add("jump");
     }
-    registerSelect(select) {
-        this.select = select;
-        select.setOptions(this.actions.toArray());
+    registerStartStopBtn(StartStopBtn) {
+        this.StartStopBtn = StartStopBtn;
+        StartStopBtn.setStartStop("start");
     }
     act(action, x, y) {
-        // interface offered to the select
+        // interface offered to the StartStopBtn
         switch (action) {
             case "start":
                 this.#start(x);
@@ -34,9 +34,7 @@ class Bunny extends Component {
         }
     }
     #start(ms = 1000) {
-        this.actions.remove("start");
-        this.actions.add("stop");
-        this.select.setOptions(this.actions.toArray());
+        this.StartStopBtn.setStartStop("stop");
         this.#hopOne();
         this.interval = setInterval(() => {
             this.#hopOne();
@@ -44,9 +42,7 @@ class Bunny extends Component {
     }
 
     #stop() {
-        this.actions.remove("stop");
-        this.actions.add("start");
-        this.select.setOptions(this.actions.toArray());
+        this.StartStopBtn.setStartStop("start");
         clearInterval(this.interval);
     }
     #jump(x, y) {

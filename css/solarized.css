@@ -170,8 +170,7 @@ html {
 }
 body {
     background-color: #fdf6e3;
-    margin: 0 auto;
-    max-width: 23cm;
+    margin: 0;
     border: 1pt solid #93a1a1;
     padding: 1em;
 }

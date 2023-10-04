@@ -1,5 +1,10 @@
 # sj23-24-4ahwii-swpx
 
+## HÜ: video event queue ansehen
+
+-   https://www.youtube.com/watch?v=8aGhZQkoFbQ
+-   https://www.youtube.com/watch?v=8zKuNo4ay8E
+
 ## Tests:
 
 -   11.10. Testdrive VSCODE

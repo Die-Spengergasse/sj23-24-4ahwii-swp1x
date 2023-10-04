@@ -1,6 +1,6 @@
 #grid {
     display: grid;
-    grid-template: repeat(7, 7em) / repeat(7, 7em);
+    grid-template: 1fr 1fr 1fr 3fr 1fr 1fr 1fr / 1fr 1fr 1fr 3fr 1fr 1fr 1fr;
 }
 #grid > * {
     background: #eee;

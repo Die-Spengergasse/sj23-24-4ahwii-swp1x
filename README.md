@@ -2,8 +2,10 @@
 
 ## HÜ: video event queue ansehen
 
--   https://www.youtube.com/watch?v=8aGhZQkoFbQ
--   https://www.youtube.com/watch?v=8zKuNo4ay8E
+-   https://youtu.be/u1kqx6AenYw (Erin Zimmer)
+-   https://www.youtube.com/watch?v=8aGhZQkoFbQ (Philip Roberts)
+-   https://www.youtube.com/watch?v=8zKuNo4ay8E (Akshay Saini)
+-   https://youtu.be/SrNQS8J67zc (Shelley Vohr)
 
 ## Tests:
 
@@ -12,14 +14,9 @@
 -   20.12.
 -   24.1.
 
-## HÜ com 27.9.
-
--   bunnyjump komplettieren
 
 ## Upcoming
 
--   Übung mit grid (Häschen herumhoppeln lassen mit setTimeout, siehe
-    Vorbereitetes Zeugs)
 -   style stripping
 -   Promises in-depth (akshay chani)
 

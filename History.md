@@ -1,5 +1,11 @@
 # Unterrichtete Themen 4AHWII SWPx
 
+## HÜ com 27.9.
+
+-   Übung mit grid (Häschen herumhoppeln lassen mit setTimeout, siehe
+    Vorbereitetes Zeugs)
+-   bunnyjump komplettieren
+
 ## Woche 38
 
 -   scrimba

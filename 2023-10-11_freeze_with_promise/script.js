@@ -21,11 +21,15 @@ function good(data) {
 function bad(data) {
     if (new Date().valueOf() - startDate > 7000) {
         // dont freeze forever
-        console.info("not continuing the terror");
+        console.info(
+            `not continuing the terror after 7 seconds and ${count} callbacks`
+        );
         return;
     }
-    if (count++ < maxlogs) {
-        console.log("bad called with data: ", data);
+    count++;
+    if (count <= maxlogs || count == 21) {
+        console.log("bad called with data: ");
+        console.log(data);
     }
     y = x(); // y: Promise Objekt
     y.then(good, bad);

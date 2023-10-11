@@ -1,5 +1,10 @@
 # Unterrichtete Themen 4AHWII SWPx
 
+## HÜ 2023-09-20
+
+-   flexboxfroggy
+-   css grid garden
+
 ## HÜ com 27.9.
 
 -   Übung mit grid (Häschen herumhoppeln lassen mit setTimeout, siehe

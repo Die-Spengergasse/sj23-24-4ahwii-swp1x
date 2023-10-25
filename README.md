@@ -1,19 +1,15 @@
 # sj23-24-4ahwii-swpx
 
-## HÜ vom 11.10
+## HÜ Herbstferien
 
-study:
-
--   https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
--   https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
--   https://youtu.be/Xm4BObh4MhI (Ania Kubow Bootcamp)
-
-## HÜ: video event queue ansehen (bis 11.10.)
-
--   https://youtu.be/u1kqx6AenYw (Erin Zimmer)
--   https://www.youtube.com/watch?v=8aGhZQkoFbQ (Philip Roberts)
--   https://www.youtube.com/watch?v=8zKuNo4ay8E (Akshay Saini)
--   https://youtu.be/SrNQS8J67zc (Shelley Vohr)
+-   fetch ansehen
+-   pokemon api Endpoints recherche
+-   <https://www.youtube.com/watch?v=cuEtnrL9-H0&pp=ygUQamF2YXNjcmlwdCBmZXRjaA%3D%3D>
+    6min Kyle
+-   <https://www.youtube.com/watch?v=dfaj4vI8QxE&pp=ygUQamF2YXNjcmlwdCBmZXRjaA%3D%3D>
+    30min ania kubow
+-   <https://www.youtube.com/watch?v=AGWwa25ZlRY&pp=ygUQamF2YXNjcmlwdCBmZXRjaA%3D%3D>
+    james q quick
 
 ## Tests:
 

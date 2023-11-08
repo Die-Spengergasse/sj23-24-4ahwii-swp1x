@@ -1,20 +1,12 @@
 # sj23-24-4ahwii-swpx
 
-## HÜ Herbstferien
+## HÜ vom 8.Nov
 
--   fetch ansehen
--   pokemon api Endpoints recherche
--   <https://www.youtube.com/watch?v=cuEtnrL9-H0&pp=ygUQamF2YXNjcmlwdCBmZXRjaA%3D%3D>
-    6min Kyle
--   <https://www.youtube.com/watch?v=dfaj4vI8QxE&pp=ygUQamF2YXNjcmlwdCBmZXRjaA%3D%3D>
-    30min ania kubow
--   <https://www.youtube.com/watch?v=AGWwa25ZlRY&pp=ygUQamF2YXNjcmlwdCBmZXRjaA%3D%3D>
-    james q quick
+<https://www.youtube.com/watch?v=Z2O3QxpcdSk&t=639s> pokematch bis min 15
+ansehen und selbst nachimplementieren
 
 ## Tests:
 
--   11.10. Testdrive VSCODE
--   18.10
 -   20.12.
 -   24.1.
 

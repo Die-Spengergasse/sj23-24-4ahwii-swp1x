@@ -1,5 +1,15 @@
 # Unterrichtete Themen 4AHWII SWPx
 
+## HÜ Herbstferien
+
+-   fetch ansehen
+-   pokemon api Endpoints recherche
+-   <https://www.youtube.com/watch?v=cuEtnrL9-H0&pp=ygUQamF2YXNjcmlwdCBmZXRjaA%3D%3D>
+    6min Kyle
+-   <https://www.youtube.com/watch?v=dfaj4vI8QxE&pp=ygUQamF2YXNjcmlwdCBmZXRjaA%3D%3D>
+    30min ania kubow
+-   <https://www.youtube.com/watch?v=AGWwa25ZlRY&pp=ygUQamF2YXNjcmlwdCBmZXRjaA%3D%3D>
+    james q quick
 
 ## HÜ vom 11.10
 
@@ -15,6 +25,7 @@ study:
 -   https://www.youtube.com/watch?v=8aGhZQkoFbQ (Philip Roberts)
 -   https://www.youtube.com/watch?v=8zKuNo4ay8E (Akshay Saini)
 -   https://youtu.be/SrNQS8J67zc (Shelley Vohr)
+
 ## HÜ 2023-09-20
 
 -   flexboxfroggy

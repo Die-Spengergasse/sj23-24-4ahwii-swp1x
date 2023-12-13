@@ -1,0 +1,17 @@
+{
+    "name": "2023-12-13__node_prisma",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "run": "node app.js",
+        "debug": "node --inspect app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "prisma": "^5.7.0"
+    }
+}

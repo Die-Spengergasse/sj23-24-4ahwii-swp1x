@@ -1,0 +1,29 @@
+datasource db {
+    provider = "sqlite"
+    url      = "file:./dev.db"
+}
+
+model Genre {
+    id Int @id
+    name String
+}
+model Movie {
+    id Int @id
+    title
+    length
+    description
+    director
+    **genre** (FK)
+}
+model Watchlist {
+    id Int @id
+    movie_id (FK)
+    user_id (FK)
+}
+model User{
+    id Int @id
+    username
+    firstname
+    lastname
+    birthdate
+}

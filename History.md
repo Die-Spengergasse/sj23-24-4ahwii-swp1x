@@ -1,5 +1,10 @@
 # Unterrichtete Themen 4AHWII SWPx
 
+## HÜ vom 8.Nov
+
+<https://www.youtube.com/watch?v=Z2O3QxpcdSk&t=639s> pokematch bis min 15
+ansehen und selbst nachimplementieren
+
 ## HÜ Herbstferien
 
 -   fetch ansehen

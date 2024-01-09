@@ -1,21 +1,25 @@
 # sj23-24-4ahwii-swpx
 
-## HÜ vom 8.Nov
+## Stunde 10. Jänner
 
-<https://www.youtube.com/watch?v=Z2O3QxpcdSk&t=639s> pokematch bis min 15
-ansehen und selbst nachimplementieren
+-   Sammlung nach allen Irritationen
+-   Abschließen Pokematch
+-   weiterbauen prisma
+-   Daten scrapen (Fußball eventuell?)
+
+## Stunde 17. Jänner, dann Test
+
+-   wahrscheinlich noch Abgaben
 
 ## Tests:
 
--   20.12.
+-   20.12. (Abgabe bis )
 -   24.1.
 
 ## Upcoming
 
 -   style stripping
 -   Promises in-depth (akshay chani)
-
-# Hausübungen (rev. Chrono)
 
 ## Bereits durchgenommen
 

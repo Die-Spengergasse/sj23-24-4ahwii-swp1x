@@ -1,5 +1,12 @@
 # sj23-24-4ahwii-swpx
 
+## HÜ
+
+Vorgegebenes Prisma File via REST sichtbar machen
+
+-   express (npm i express)
+-   routen für die jeweiligen models
+
 ## 31.1.
 
 <https://www.youtube.com/watch?v=p3_xN2Zp1TY> KP 5 resp layouts

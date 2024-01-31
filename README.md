@@ -1,7 +1,13 @@
 # sj23-24-4ahwii-swpx
 
-plf3: <https://classroom.github.com/a/VoH2WhkF>
+## 31.1.
 
+<https://www.youtube.com/watch?v=p3_xN2Zp1TY> KP 5 resp layouts
+<https://github.com/prisma/prisma-examples/blob/latest/typescript/rest-express/src/index.ts>
+
+## 24.1.
+
+plf3: <https://classroom.github.com/a/VoH2WhkF>
 
 ## Stunde 10. Jänner
 

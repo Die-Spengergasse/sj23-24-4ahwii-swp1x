@@ -1,5 +1,8 @@
 # sj23-24-4ahwii-swpx
 
+-   <https://www.prisma.io/docs/orm/reference/prisma-schema-reference>
+-   <>
+
 ## HÜ
 
 Vorgegebenes Prisma File via REST sichtbar machen

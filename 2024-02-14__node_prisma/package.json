@@ -13,6 +13,7 @@
     "license": "ISC",
     "dependencies": {
         "@prisma/client": "^5.7.0",
+        "faker": "^6.6.6",
         "prisma": "^5.7.0"
     },
     "devDependencies": {

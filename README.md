@@ -1,5 +1,15 @@
 # sj23-24-4ahwii-swpx
 
+## HÜ
+
+Watchlist soll mehrere Filme enthalten können!! (seed programm und auch
+index.ts)
+
+## TESTS
+
+-   20.3.
+-   22.5.
+
 -   <https://www.prisma.io/docs/orm/reference/prisma-schema-reference>
 -   <>
 

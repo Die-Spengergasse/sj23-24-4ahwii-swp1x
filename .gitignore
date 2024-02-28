@@ -1,4 +1,5 @@
 *.pdf
+dev.db
 .vscode
 # # Logs
 # logs

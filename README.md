@@ -1,5 +1,13 @@
 # sj23-24-4ahwii-swpx
 
+## 3. April
+
+Korr PLF
+
+-   Wiederholung Schema-Aufbau (1-n/n-m, singular, plural, case)
+-   nochmal demo debugger (inb. faker)
+-   wiederholung create / createmany
+
 ## HÜ
 
 Watchlist soll mehrere Filme enthalten können!! (seed programm und auch

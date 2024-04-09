@@ -1,6 +1,7 @@
 *.pdf
 dev.db
 .vscode
+*.sqlite3
 # # Logs
 # logs
 # *.log

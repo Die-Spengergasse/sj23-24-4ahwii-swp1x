@@ -70,10 +70,10 @@ Erstelle eine Applikation `query.js` welche bei `npm start` gestarted wird. Sie
 möge strukturiert und verständlich Antworten auf folgende Fragen liefern (von
 leicht bis schwer):
 
--   Ausgabe aller Zoos
+-   Ausgabe aller Zoos (zoos1)
 -   Wählen einer zufälligen Zoo-Id und Auskunft über den Zoo und über die
-    dortigen Abteilungen geben.
--   wie oben und zusätzlich: wie viele Tiere in jeder Abteilung
+    dortigen Abteilungen geben. (zoos2)
+-   wie oben und zusätzlich: wie viele Tiere in jeder Abteilung (zoos3)
 -   alle Mitarbeiter in einem bestimmten Zoo ausgeben
 -   wie oben und zusätzlich: in welchen Abteilungen sie arbeiten
 

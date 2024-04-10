@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello 4AHWII</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<!-- {"id":"clur4sthr0004igdtn0nk6vdy","land":"Tanzania","stadt":"Hollywood","adresse":"643 York Street","baujahr":1901}] -->
+
+<body>
+    <h2>Meine Zoos</h2>
+    <ul>
+        <% zoos.forEach(e=> { %>
+            <li data-id="<%= e.id %>">
+                <%= `Land: ${e.land} Stadt: ${e.stadt} Adresse: ${e.adresse} (${e.baujahr})`%>
+            </li>
+
+            <% }) %>
+    </ul>
+</body>
+
+</html>

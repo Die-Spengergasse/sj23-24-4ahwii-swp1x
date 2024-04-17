@@ -10,6 +10,9 @@ app.get('/', async (req, res) => {
     res.render('index', { zoos: await prisma.zoo.findMany() });
 });
 
+app.get('/zoo/:id', (req, res) => {
+    debugger
+});
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`);
 });

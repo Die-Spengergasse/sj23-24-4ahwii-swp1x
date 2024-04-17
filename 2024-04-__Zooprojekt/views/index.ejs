@@ -12,10 +12,17 @@
     <h2>Meine Zoos</h2>
     <ul>
         <% zoos.forEach(e=> { %>
-            <li data-id="<%= e.id %>">
-                <%= `Land: ${e.land} Stadt: ${e.stadt} Adresse: ${e.adresse} (${e.baujahr})`%>
-            </li>
-            <% }) %>
+        <li data-id="<%= e.id %>">
+            <%= `Land: ${e.land} Stadt: ${e.stadt} Adresse: ${e.adresse} (${e.baujahr})`%>
+        </li>
+
+        <!-- <% if (e.baujahr < 1950) { %>
+        <p>Der Zoo ist eher alt</p>
+        <% } else { %>
+        <p>Der Zoo ist NEU</p>
+        <% } %>
+    -->
+        <% }) %>
     </ul>
 </body>
 

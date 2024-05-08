@@ -6,7 +6,8 @@
     "scripts": {
         "seed": "npx prisma db seed",
         "seed-dev": "node --inspect seed.js",
-        "query-dev": "node --inspect query.js"
+        "query-dev": "node --inspect query.js",
+        "htmx": "node app.js"
     },
     "prisma": {
         "seed": "node seed.js"

@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello 4AHWII</title>
+    <script src="https://unpkg.com/htmx.org@1.9.12"></script>
+    <title>Hello 4AHWII ZOO</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -12,10 +13,9 @@
     <h2>Meine Zoos</h2>
     <ul>
         <% zoos.forEach(e=> { %>
-        <li data-id="<%= e.id %>">
+        <li data-id="<%= e.id %>" hx-get="/zoo/<%= e.id %>" hx-target="#details">
             <%= `Land: ${e.land} Stadt: ${e.stadt} Adresse: ${e.adresse} (${e.baujahr})`%>
         </li>
-
         <!-- <% if (e.baujahr < 1950) { %>
         <p>Der Zoo ist eher alt</p>
         <% } else { %>
@@ -24,6 +24,8 @@
     -->
         <% }) %>
     </ul>
+    <h3>Details:</h3>
+    <ul id="details">No Zoo selected yet</ul>
 </body>
 
 </html>

@@ -2,30 +2,14 @@ const { PrismaClient } = require('@prisma/client');
 const prisma = new PrismaClient({ log: ['query'] });
 
 async function main() {
-    const ma = await prisma.mitarbeiter.findFirst({
-        where: {
-            name: 'Dianne Kassulke',
-        },
+    const id = 'clv3prqir00008oe9wi55wwt4';
+    const zo = await prisma.zoo.findUnique({
+        where: { id: id },
         include: {
-            abteilungen: {
-                include: {
-                    _count: {
-                        select: {
-                            tiere: true,
-                        },
-                    },
-                    zoo: {
-                        select: {
-                            land: true,
-                            stadt: true,
-                            id: true,
-                        },
-                    },
-                },
-            },
-        },
+            abteilungen: { select: { name: true } }
+        }
     });
-    console.log(JSON.stringify(ma, null, 2));
+    console.log(JSON.stringify(zo, null, 2));
 }
 main().then((_) => {
     prisma.$disconnect();

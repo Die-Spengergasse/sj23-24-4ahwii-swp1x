@@ -10,8 +10,22 @@ app.get('/', async (req, res) => {
     res.render('index', { zoos: await prisma.zoo.findMany() });
 });
 
-app.get('/zoo/:id', (req, res) => {
-    debugger
+app.get('/zoo/:id', async (req, res) => {
+    const id = req.params.id;
+    const zo = await prisma.zoo.findUnique({
+        where: { id: id },
+        include: {
+            abteilungen: { select: { name: true } }
+        }
+    });
+    return res.render('details', { zoo: zo });
+});
+
+app.get('/htmx', async (req, res) => {
+    res.render('htmx');
+});
+app.post('/htmx-click', (req, res) => {
+    res.render('htmx-click');
 });
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`);

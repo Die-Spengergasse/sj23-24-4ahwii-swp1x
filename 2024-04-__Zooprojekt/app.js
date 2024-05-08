@@ -20,7 +20,10 @@ app.get('/zoo/:id', async (req, res) => {
     });
     return res.render('details', { zoo: zo });
 });
-
+app.get('/htmx/', (req, res, next) => {
+    if (req.originalUrl.endsWith('/')) return res.redirect('/htmx');
+    next();
+});
 app.get('/htmx', async (req, res) => {
     res.render('htmx');
 });

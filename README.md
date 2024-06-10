@@ -1,6 +1,6 @@
 # sj23-24-4ahwii-swpx
 
-## 17.4.
+## 17. April
 
 Übung: Jeder Zoo bekommt einen "details" Button, welcher eine neue Seite lädt (oder mit Link)
 

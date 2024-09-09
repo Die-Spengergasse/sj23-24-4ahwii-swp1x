@@ -1,5 +1,11 @@
 # 5AHWII SJ2425
 
+## 2024-09-11
+
+- Repo rename
+- Bootstrap intro
+- Suku cont
+
 ## 2024-09-04
 
 ### Themensammlung
